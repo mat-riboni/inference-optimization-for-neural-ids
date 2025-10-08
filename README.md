@@ -2,7 +2,7 @@
 
 > **⚠️ Maintenance Notice**  
 > This repository is currently **under maintenance**.  
-> The code was developed during the thesis process and is **not clean, optimized, or well documented**.  
+> The code was developed during the thesis process and is **not clean or well documented**.  
 > A future refactor will make it usable... maybe.
 
 ---
